@@ -1,4 +1,5 @@
 {
+  "installCommand": "yarn install --ignore-optional",
   "functions": {
     "api/*.js": {
       "maxDuration": 10

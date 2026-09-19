@@ -15,7 +15,7 @@
     "url": "https://github.com/sponsors/Lissy93"
   },
   "engines": {
-    "node": "18.x"
+    "node": "20.x"
   },
   "scripts": {
     "dev": "netlify dev",
